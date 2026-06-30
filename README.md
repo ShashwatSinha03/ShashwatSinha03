@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&weight=500&size=32&pause=1000&color=BCB2FF&background=6256FF00&random=true&width=435&lines=Shashwat+Sinha)](https://git.io/typing-svg)
 
-## 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭
+## 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
 
 ### Not a fan of building software, enjoy solving problems instead. Software just happens to be the medium.
 <br></br>
@@ -62,4 +62,5 @@ Prolly caught up with things like:
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
 </div>
+<img align="left" height="200px" width="500px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdoOGw5Y3Jxbjlzd29ibTJ4MnBqNHgzaHNtY3M3M2VxMm90YmNrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" />
 
