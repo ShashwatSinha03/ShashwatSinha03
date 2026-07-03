@@ -2,7 +2,7 @@
 
 ## 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
 
-### Not a fan of building software, enjoy solving problems instead. Software just happens to be the medium.
+### Not a fan of building software, I solve problems instead. Software just happens to be the medium.
 <br></br>
 
 ## 𝐇𝐨𝐰 𝐈 𝐓𝐡𝐢𝐧𝐤:
